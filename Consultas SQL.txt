@@ -1,0 +1,3 @@
+--Consultas SQL 
+--1 consulta
+SELECT * FROM MOVIES
